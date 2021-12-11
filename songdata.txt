@@ -1,0 +1,2 @@
+id	songName	storeID	author	levelToUnlock	price	Song Loop	VersionMid	VersionMp3	MidFile	Mp3File	speedBegin	speedIncreaseAfterOneLoop	SongTrackClip	SongTrackSpeed	beginDistanceBySecond	AddStartDistance	typeSong	Category
+1	7 Rings	firstsnow		1	0	1	0	0	https://raw.githubusercontent.com/miodevs/cf/master/s/firstsnow.mid	https://github.com/hugojuan/config/blob/main/Diana%20-%20LIGHTER%20-%20Kids%20Song%20(Official%20Video).mp3	1	0.25	0;35.0;70	1;1.05263158;1.111111111111	1650	1000	HOT	1
